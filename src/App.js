@@ -5,7 +5,7 @@ import Card3 from './Card3.js';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App p-3">
       <div className="container d-flex justify-content-center gap-4 flex-wrap flex-row p-3 bg-color">
       <Card1 />
       <Card2 />

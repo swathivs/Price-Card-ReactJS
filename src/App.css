@@ -1,7 +1,6 @@
 .card{
   height:520px;
   width: 350px;
-  margin-top: 20px;
 }
 ul{
   list-style: none;
@@ -16,12 +15,11 @@ ul{
   border-radius: 80px;
   padding:16px;
 }
-.bg-color{
+.App{
   background: #007bff;
   background: linear-gradient(to right, #0062E6, #33AEFF);
+  position: absolute;
   min-width:100%;
-  min-height: 0vh;
-  margin-top: 10px;
 }
 
 .card:hover {
