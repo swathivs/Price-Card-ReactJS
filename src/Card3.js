@@ -30,7 +30,7 @@ function Card3(){
     return(
         <div>
       <div className="container bg-light card p-4 mx-auto rounded-3" >
-            <div className="text-muted text-center"> FREE</div>
+            <div className="text-muted text-center">PRO</div>
             <div className="text-center "><h1>$49<span className="month">/per month</span></h1></div>     
             <hr></hr>
         
