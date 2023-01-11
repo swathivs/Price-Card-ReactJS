@@ -1,0 +1,31 @@
+.card{
+  height:520px;
+  width: 350px;
+  margin-top: 20px;
+}
+ul{
+  list-style: none;
+}
+.month{
+  font-size: 0.8rem;
+}
+.content{
+  margin-bottom: 15px;
+}
+.btn{
+  border-radius: 80px;
+  padding:16px;
+}
+.bg-color{
+  background: #007bff;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+  min-width:100%;
+  min-height: 0vh;
+  margin-top: 10px;
+}
+
+.card:hover {
+  margin-top: -.25rem;
+  margin-bottom: .25rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+}
